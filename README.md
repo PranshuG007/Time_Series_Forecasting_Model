@@ -1,4 +1,4 @@
-# 📊 Walmart Sales Forecasting App
+# 📊 Walmart Sales Forecasting Model
 
 ## 📌 Overview
 
@@ -16,14 +16,14 @@ This Streamlit app predicts Walmart's weekly sales using **ARIMA** and **XGBoost
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/PranshuG007/Walmart_Sales_Forecasting.git
-cd Walmart_Sales_Forecasting
+git clone https://github.com/PranshuG007/Walmart_Sales_Forecasting_Model.git
+cd Walmart-Sales-Forecasting
 ```
 
 ### 2️⃣ Install Dependencies
 
 ```sh
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 ### 3️⃣ Run the Streamlit App
